@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+}
+
+
+bodY {
+    background-color: rgb(117, 187, 26);
+  
+  }
+ .cont{
+    width: 640px; height: 570px;
+    background-color: rgb(8, 9, 10);
+    border-style: solid; 
+    padding: px;
+    position: absolute; left: 95px ; top: 100px; 
+    z-index: 2;   
+    border-radius: 8px;
+} 
+
+  
+  .CAJAVERDE1{
+      width: 350px; height: 100px;
+      background-color: rgb(199, 87, 175);
+      border-style: solid; 
+      border-radius: 8px;
+      padding: 10px;
+      position: absolute; left: 105px; top: 145px; 
+      z-index: 4;
+   }
+   
+   
+  
+  .CAJAVERDE2{
+      width: 210px; height: 100px;
+      background-color: rgb(203, 224, 209);
+      border-radius: 8px;
+      border-style: solid;
+      padding: 10px;
+      position: absolute; left: 490px; top: 145px;
+      z-index: 3;
+   }
+   
+
+  
+   .CAJARO{
+      width: 250px; height: 250px ;
+       background-color: red;
+      border-style: solid;
+      padding: 10;
+      position: absolute; left: 105px; top: 275px;
+      z-index: 3;
+      border-radius: 8px;
+   }
+   
+   
+   .CAJAAM4{
+      width: 340px; height: 95px;
+      background-color: aqua;
+      padding: 10px;
+      border-radius: 8px;
+      position: absolute;  left: 365px; top: 280px;
+      z-index: 3;
+   }
+
+   .CAJAAM4b{
+      width: 340px; height: 95px;
+      background-color: rgb(12, 141, 141);
+      padding: 10px;
+      border-radius: 8px;
+      position: absolute;  left: 365px; top: 410px;
+      z-index: 3;
+   }
+  
+   .CAJAAM5{
+      width: 180px; height: 95px;
+      background-color: rgb(23, 231, 23);
+      border-radius: 8px;
+      padding: 10px;
+      position: absolute;  left: 105px; top: 540px;
+      z-index: 3;
+   }
+   
+   .CAJAVI{
+      width: 180px; height: 95px;
+      background-color: rgb(91, 55, 99);
+      border-style: solid;
+      padding: 10px;
+      border-radius: 8px;
+      position: absolute; left: 315px; top: 535px; ;
+      z-index: 3;
+   }
+   .CAJAVIb{
+      width: 180px; height: 95px;
+      background-color: rgb(153, 101, 165);
+      border-style: solid;
+      padding: 10px;
+      border-radius: 8px;
+      position: absolute; left: 525px; top: 535px; ;
+      z-index: 3;
+   }
